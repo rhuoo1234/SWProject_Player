@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\bin\Debug\SWProject.exe.config
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\bin\Debug\SWProject.exe
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\bin\Debug\SWProject.pdb
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\bin\Debug\DirectShowLib-2005.dll
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\SWProject.MainForm.resources
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\SWProject.Properties.Resources.resources
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\SWProject.exe
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\SWProject.pdb
+C:\Users\user\Desktop\2020학교 2학기\프로젝트\발구지\TestProject\obj\Debug\SWProject.OptionForm.resources
